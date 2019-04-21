@@ -1,0 +1,126 @@
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll.CodeAnalysisLog.xml
+C:\Users\Emmanuel\Desktop\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll.lastcodeanalysissucceeded
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+C:\Users\Emmanuel\Desktop\Cours S3\REVISIONS\M3105 - Programmation objet avancée\Tp\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+E:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csproj.CoreCompileInputs.cache
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+F:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+D:\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csproj.CoreCompileInputs.cache
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\TestsCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\TestsCarnet2Notes\obj\Debug\TestsCarnet2Notes.pdb

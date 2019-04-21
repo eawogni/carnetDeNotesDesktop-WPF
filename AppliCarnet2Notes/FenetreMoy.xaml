@@ -1,0 +1,23 @@
+﻿<Window x:Class="CarnetDeNotes.FenetreMoy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarnetDeNotes"
+        mc:Ignorable="d"
+        Title="FenetreMoy" Height="454.78" Width="512.651" Background="White">
+    <Grid Margin="0,0,-8,-2" Background="Gray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="145*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="labBulletin" HorizontalAlignment="Left" Margin="10,26,0,29" Width="479" FontFamily="Lucida Bright" FontSize="18" Background="#FFE7E8EC"/>
+        <Menu HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="48">
+
+            <MenuItem Header="Fichier" Width="48" FontWeight="Bold" Height="21">
+                <MenuItem x:Name="ExportPdf" Header="Générer le PDF" Click="Click_ExportPdf"></MenuItem>
+                <MenuItem x:Name="ExportCsv" Header="Exporter en CSV" Click="Click_ExportCsv"></MenuItem>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

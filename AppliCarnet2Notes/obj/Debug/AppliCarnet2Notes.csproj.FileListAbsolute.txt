@@ -1,0 +1,208 @@
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe.config
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.pdb
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csprojResolveAssemblyReference.cache
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\App.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.cache
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.lref
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.g.resources
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.Properties.Resources.resources
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.GenerateResource.Cache
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.exe
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.pdb
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe.config
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.pdb
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csprojResolveAssemblyReference.cache
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\App.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.cache
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.lref
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.baml
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.g.resources
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.Properties.Resources.resources
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.GenerateResource.Cache
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.exe
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.pdb
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.g.cs
+E:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.baml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe.config
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.pdb
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csprojResolveAssemblyReference.cache
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\App.g.cs
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.cache
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.lref
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.baml
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.g.resources
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.Properties.Resources.resources
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.GenerateResource.Cache
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.CoreCompileInputs.cache
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.exe
+F:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.pdb
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe.config
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.pdb
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csprojResolveAssemblyReference.cache
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\App.g.cs
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.cache
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.lref
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.baml
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.g.resources
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.Properties.Resources.resources
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.GenerateResource.Cache
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.CoreCompileInputs.cache
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.exe
+F:\Carnet de notes - Copie - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.pdb
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe.config
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.pdb
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csprojResolveAssemblyReference.cache
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\App.g.cs
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.cache
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.lref
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.baml
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.g.resources
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.Properties.Resources.resources
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.GenerateResource.Cache
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.CoreCompileInputs.cache
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.exe
+F:\Carnet de notes - Copie\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe.config
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.exe
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\AppliCarnet2Notes.pdb
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\itextsharp.dll
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\CarnetDeNotes.pdb
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\itextsharp.xml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\App.g.cs
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.cache
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes_MarkupCompile.lref
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreExamen.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModule.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreModuleSet.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreMoy.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNoteSet.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUe.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreUeSet.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreNote.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\MainWindow.baml
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.g.resources
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.GenerateResource.Cache
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.exe
+C:\Users\Emmanuel\Desktop\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\AppliCarnet2Notes.pdb
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\itextsharp.dll
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\bin\Debug\itextsharp.xml
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.g.cs
+D:\Carnet de notes\CarnetDeNotes\AppliCarnet2Notes\obj\Debug\FenetreAccueil.baml

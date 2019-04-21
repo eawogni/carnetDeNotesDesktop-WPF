@@ -1,0 +1,20 @@
+﻿<Window x:Class="CarnetDeNotes.FenetreExamen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarnetDeNotes"
+        mc:Ignorable="d"
+        Title="FenetreExamen" Height="300" Width="300">
+    <Grid Margin="0,0,-8,-4">
+        <Label Content="Ajouter un Examen" HorizontalAlignment="Left" Margin="43,10,0,0" VerticalAlignment="Top" Width="200"/>
+        <Label Content="Date" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.104,0.064"/>
+        <Label Content="Nom Prefesseur" HorizontalAlignment="Left" Margin="0,108,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Ponderation" HorizontalAlignment="Left" Margin="10,161,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDateExam" Text="{Binding DateExam}" HorizontalAlignment="Left" Height="23" Margin="118,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="textNomProf" Text="{Binding NomProf}" HorizontalAlignment="Left" Height="23" Margin="118,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPonderation" Text="{Binding Ponderation}" HorizontalAlignment="Left" Height="23" Margin="123,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Ajouter" Content="Ajouter" HorizontalAlignment="Left" Margin="118,218,0,0" VerticalAlignment="Top" Width="75" Height="28" Click="Click_Ajouter"/>
+
+    </Grid>
+</Window>
