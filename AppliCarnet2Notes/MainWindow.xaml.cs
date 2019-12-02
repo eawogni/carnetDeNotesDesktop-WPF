@@ -62,7 +62,7 @@ namespace CarnetDeNotes
                 }
                 else
                 {
-                    res = MessageBox.Show("vous n'existez pas dans la base , voulez vous créé un carnet?", "Gérer un Carnet", MessageBoxButton.OKCancel);
+                    res = MessageBox.Show("Vous n'existez pas dans la base , voulez vous créer un carnet ?", "Gérer un Carnet", MessageBoxButton.OKCancel);
                     if (res == MessageBoxResult.Cancel)
                     {
                         sortie = true;

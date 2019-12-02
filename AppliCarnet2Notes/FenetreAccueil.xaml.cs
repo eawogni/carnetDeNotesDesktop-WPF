@@ -40,7 +40,7 @@ namespace AppliCarnet2Notes
             {
                 if (this.col.GetCarnet(txtNom.Text, txtPrénom.Text) != null)
                 {
-                    MessageBox.Show("cet Etudiant existe déjà", "Nouveau Carnet");
+                    MessageBox.Show("Cet étudiant existe déjà", "Nouveau Carnet");
                 }else
                 {
                     Etudiant etd = new Etudiant(txtNom.Text, txtPrénom.Text);
